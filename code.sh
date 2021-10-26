@@ -36,19 +36,19 @@ var_name=(
 )
 
 name_js=(
-  chinnkarahoi_jd_scripts_jd_fruit
-  chinnkarahoi_jd_scripts_jd_pet
-  chinnkarahoi_jd_scripts_jd_plantBean
-  chinnkarahoi_jd_scripts_jd_dreamFactory
-  chinnkarahoi_jd_scripts_jd_jdfactory
-  chinnkarahoi_jd_scripts_jd_jdzz
-  chinnkarahoi_jd_scripts_jd_crazy_joy
-  chinnkarahoi_jd_scripts_jd_jxnc
-  chinnkarahoi_jd_scripts_jd_bookshop
-  chinnkarahoi_jd_scripts_jd_cash
-  chinnkarahoi_jd_scripts_jd_sgmh
-  chinnkarahoi_jd_scripts_jd_cfd
-  chinnkarahoi_jd_scripts_jd_health
+  zero205_JD_tencent_scf_main_jd_fruit
+  zero205_JD_tencent_scf_main_jd_pet
+  zero205_JD_tencent_scf_main_jd_plantBean
+  zero205_JD_tencent_scf_main_jd_dreamFactory
+  zero205_JD_tencent_scf_main_jd_jdfactory
+  zero205_JD_tencent_scf_main_jd_jdzz
+  zero205_JD_tencent_scf_main_jd_crazy_joy
+  zero205_JD_tencent_scf_main_jd_jxnc
+  zero205_JD_tencent_scf_main_jd_bookshop
+  zero205_JD_tencent_scf_main_jd_cash
+  zero205_JD_tencent_scf_main_jd_sgmh
+  zero205_JD_tencent_scf_main_jd_cfd
+  zero205_JD_tencent_scf_main_jd_health
 )
 
 name_config=(
